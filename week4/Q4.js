@@ -12,3 +12,6 @@ let human = { //age will change so used 'let' instead of const
 //if human then age * 7; else age / 7
 
 console.log(age); //dog details
+
+
+// CHANGE human and dog to TYPE
