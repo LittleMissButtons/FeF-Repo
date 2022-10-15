@@ -1,4 +1,6 @@
-let dogAge = 3; //dogs age in human years
-let dogYears = (dogAge*7); //conversion into dog years
-
-console.log(dogYears); //return age in dog years
+function dogYears() {
+    let dogAge = 1.2; //dogs age in human years (used float)  
+    console.log(dogAge * 7 +" in dog years");
+  }
+  
+  dogYears() //return age in dog years
